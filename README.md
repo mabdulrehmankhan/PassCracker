@@ -1,7 +1,7 @@
 # PassCracker
 
 ## Overview
-PassCracker is a powerful and versatile password cracking tool designed to decode various cryptographic hash functions commonly used in cybersecurity. Developed using Python, PassCracker provides an efficient and user-friendly solution for security professionals and ethical hackers to test the strength of passwords stored in hash formats.
+PassCracker is a powerful and versatile password-cracking tool designed to decode various cryptographic hash functions commonly used in cybersecurity. Developed using Python, PassCracker provides an efficient and user-friendly solution for security professionals and ethical hackers to test the strength of passwords stored in hash formats.
 
 ## Features
 
@@ -15,8 +15,8 @@ PassCracker is a powerful and versatile password cracking tool designed to decod
 
 ## Example Usage
 
-```powershell
-PS F:\PYTHON PROJECTS> & C:/Users/ABS.COMPUTER/Flexitek/python/python.exe "f:/PYTHON PROJECTS/password_cracker.py"
+```PowerShell
+PS F:\PYTHON PROJECTS> password_cracker.py
 
 WELCOME TO PassCracker
 
